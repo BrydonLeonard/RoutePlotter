@@ -9,3 +9,9 @@ You'll also get a montage of the images in the project root directory.
 ## Dependencies
 
 [Imagemagick](https://imagemagick.org/script/download.php) and matplotlib (use `pip install matplotlib`) 🤷
+
+## Output
+
+Looks like:
+
+![alt text](https://github.com/BrydonLeonard/RoutePlotter/blob/master/montage.png "Route montage")
